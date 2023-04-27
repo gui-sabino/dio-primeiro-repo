@@ -1,2 +1,3 @@
-# dio-primeiro-repo
-Parte do Desafio de Projeto sobre Git/GitHub
+# Primeiro Repo do Desafio de Projeto da DIO!
+
+Parte do Desafio sobre Git/GitHub
